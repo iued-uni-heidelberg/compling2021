@@ -1,10 +1,12 @@
 # compling2021 
 ## introduction to NLP, Y2021 August 
-### Recap of data preparation and processing
+### Recap of data preparation and processing using Python
 
-[Session 0: Introduction](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/session101_introduction.ipynb)
+[Session A: Python for NLP tasks](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/session101_introduction.ipynb)
 
-### Scripts from [Michael Falk's tutorial: Deep learning for humanists](https://github.com/michaelgfalk/machine-learning-for-humanists)
+[Session B: Word Embeddings]()
+
+### Exploring further materials: Scripts from [Michael Falk's tutorial: Deep learning for humanists](https://github.com/michaelgfalk/machine-learning-for-humanists)
 
 [Session 1 - Introduction](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/session-1-basics.ipynb)
 
