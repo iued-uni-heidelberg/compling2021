@@ -6,7 +6,7 @@
 
 [Session B: Word Embeddings]()
 
-### Exploring further materials: Scripts from [Michael Falk's tutorial: Deep learning for humanists](https://github.com/michaelgfalk/machine-learning-for-humanists)
+### Exploring further materials: Scripts from Michael Falk's tutorial - with minor changes: [Deep learning for humanists](https://github.com/michaelgfalk/machine-learning-for-humanists)
 
 [Session 1 - Introduction](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/session-1-basics.ipynb)
 
