@@ -13,6 +13,9 @@
 
 [Session C: Python for NLP tasks](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/session101_introduction.ipynb)
 
+Create a frequency dictionary / extract terminology from a corpus using colab environment.
+
+Download the [corpus](https://heibox.uni-heidelberg.de/d/bb5c73a689a1487f9d04/)
 
 ### Further materials: Scripts from Michael Falk's tutorial - with minor changes: [Deep learning for humanists](https://github.com/michaelgfalk/machine-learning-for-humanists)
 
