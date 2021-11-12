@@ -42,6 +42,15 @@ How we can add MWEs?
 ### Project: dictionary of rhymes
 [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
 
+### Project: Natural Language Generation
+[https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_generation.ipynb](https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_generation.ipynb)
+
+... as a Tesorflow tutorial
+[https://www.tensorflow.org/text/tutorials/text_generation](https://www.tensorflow.org/text/tutorials/text_generation)
+
+Slides by Michael Falk: [https://github.com/michaelgfalk/machine-learning-for-humanists/blob/main/slides/text-generation.pdf](https://github.com/michaelgfalk/machine-learning-for-humanists/blob/main/slides/text-generation.pdf)
+
+
 ### Further materials: Scripts from Michael Falk's tutorial - with minor changes: [Deep learning for humanists](https://github.com/michaelgfalk/machine-learning-for-humanists)
 
 
