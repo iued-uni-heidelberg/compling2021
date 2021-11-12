@@ -19,7 +19,7 @@ Download the [corpus](https://heibox.uni-heidelberg.de/d/bb5c73a689a1487f9d04/)
 
 ## Projects in Natural Language Processing
 
-### Project 1: Morphological analysis
+### Project: Morphological analysis
 
 
 
