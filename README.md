@@ -17,6 +17,12 @@ Create a frequency dictionary / extract terminology from a corpus using colab en
 
 Download the [corpus](https://heibox.uni-heidelberg.de/d/bb5c73a689a1487f9d04/)
 
+## Projects in Natural Language Processing
+
+### Project 1: Morphological analysis
+
+
+
 ### Further materials: Scripts from Michael Falk's tutorial - with minor changes: [Deep learning for humanists](https://github.com/michaelgfalk/machine-learning-for-humanists)
 
 
