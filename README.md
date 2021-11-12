@@ -20,8 +20,19 @@ Download the [corpus](https://heibox.uni-heidelberg.de/d/bb5c73a689a1487f9d04/)
 ## Projects in Natural Language Processing
 
 ### Project: Morphological analysis
+[https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/compLingProject101MorphologicalAnalysisV01.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/compLingProject101MorphologicalAnalysisV01.ipynb)
 
+### Project: Zipf law and frequency dictionaries
+[https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb#scrollTo=uulPFA2BLiHu](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb#scrollTo=uulPFA2BLiHu)
 
+#### Modifying script for Multiword expressions
+[https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework_solution.ipynb#scrollTo=OXKKCk4ow8fQ](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework_solution.ipynb#scrollTo=OXKKCk4ow8fQ)
+
+### Project: Terminology extraction
+[]()
+
+### Project: dictionary of rhymes
+[https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
 
 ### Further materials: Scripts from Michael Falk's tutorial - with minor changes: [Deep learning for humanists](https://github.com/michaelgfalk/machine-learning-for-humanists)
 
