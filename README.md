@@ -60,6 +60,6 @@ Slides by Michael Falk: [https://github.com/michaelgfalk/machine-learning-for-hu
 
 [Session 3 - Word vectors](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/session-4-word-vectors.ipynb)
 
-[Session 4 - take home task: Natural language generation](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/session-4-word-vectors.ipynb)
+[Session 4 - take home task: Natural language generation](https://colab.research.google.com/github/michaelgfalk/machine-learning-for-humanists/blob/master/session-3-text-generation.ipynb)
 
 
