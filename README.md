@@ -26,10 +26,18 @@ Download the [corpus](https://heibox.uni-heidelberg.de/d/bb5c73a689a1487f9d04/)
 [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb#scrollTo=uulPFA2BLiHu](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb#scrollTo=uulPFA2BLiHu)
 
 #### Modifying script for Multiword expressions
-[https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework_solution.ipynb#scrollTo=OXKKCk4ow8fQ](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework_solution.ipynb#scrollTo=OXKKCk4ow8fQ)
+[https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework_solution.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework_solution.ipynb)
 
 ### Project: Terminology extraction
-[]()
+[https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb#scrollTo=qnxocDPBMHcL](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb#scrollTo=qnxocDPBMHcL)
+
+### Project: Related (multiword) terms
+Task: modify corpus to include MWEs into training
+
+First let's review word embedding
+[https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb)
+
+How we can add MWEs?
 
 ### Project: dictionary of rhymes
 [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
